@@ -1,6 +1,10 @@
 # Melanoma Detection using Convolutional Neural Network
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9f0d405e-8a6a-435e-bcfe-477b4055039b" alt="Description" width="500">
+</div>
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
