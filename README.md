@@ -32,11 +32,13 @@ The data set contains the following diseases:
 
 CNN Model Architecture:
 
-![image](https://github.com/user-attachments/assets/7e96b83a-e131-4b9f-ab81-2cb9b0796beb)
+![image](https://github.com/user-attachments/assets/9cd77a64-4d31-4c6e-bc3d-218ad1691c59)
+
 
 Model Accuracy:
 
-![image](https://github.com/user-attachments/assets/b6ad5dc5-f103-4f15-948d-c07140c7d191)
+![image](https://github.com/user-attachments/assets/856ee306-65bc-4826-ba2f-250f17f69c9f)
+
 
 
 
